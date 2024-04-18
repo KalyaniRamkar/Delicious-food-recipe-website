@@ -272,7 +272,7 @@ html {
 .mycontainer .bottom .contact {
     text-align: center;
     color: #fff;
-    background: #111545;
+    background: hwb(276 40% 25%);
     height: 25rem;
     width: 100%;
 }
